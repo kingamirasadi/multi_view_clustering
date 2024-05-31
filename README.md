@@ -1,1 +1,2 @@
-# multi_view_clustering
+# MVC
+Multi View Clustering 
